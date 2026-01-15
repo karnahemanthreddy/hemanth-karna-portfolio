@@ -43,7 +43,7 @@ export function Contact() {
   ];
 
   return (
-    <Section id="contact">
+    <Section id="contact" className="overflow-hidden">
       <FadeIn>
         <div className="text-center space-y-4 mb-16">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight">

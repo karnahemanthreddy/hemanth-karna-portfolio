@@ -17,7 +17,7 @@ export function About() {
   ];
 
   return (
-    <Section id="about" className="bg-muted/30">
+    <Section id="about" className="bg-muted/30 overflow-hidden">
       <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
         <FadeIn direction="left">
           <div className="space-y-6">
